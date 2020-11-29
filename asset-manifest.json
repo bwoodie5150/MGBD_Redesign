@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MGBD_Redesign/static/css/main.ab98dcdf.chunk.css",
-    "main.js": "/MGBD_Redesign/static/js/main.d5ada945.chunk.js",
-    "main.js.map": "/MGBD_Redesign/static/js/main.d5ada945.chunk.js.map",
+    "main.css": "/MGBD_Redesign/static/css/main.2b2dca35.chunk.css",
+    "main.js": "/MGBD_Redesign/static/js/main.40d8dce0.chunk.js",
+    "main.js.map": "/MGBD_Redesign/static/js/main.40d8dce0.chunk.js.map",
     "runtime-main.js": "/MGBD_Redesign/static/js/runtime-main.64070373.js",
     "runtime-main.js.map": "/MGBD_Redesign/static/js/runtime-main.64070373.js.map",
     "static/js/2.43c7a42e.chunk.js": "/MGBD_Redesign/static/js/2.43c7a42e.chunk.js",
     "static/js/2.43c7a42e.chunk.js.map": "/MGBD_Redesign/static/js/2.43c7a42e.chunk.js.map",
     "index.html": "/MGBD_Redesign/index.html",
-    "static/css/main.ab98dcdf.chunk.css.map": "/MGBD_Redesign/static/css/main.ab98dcdf.chunk.css.map",
+    "static/css/main.2b2dca35.chunk.css.map": "/MGBD_Redesign/static/css/main.2b2dca35.chunk.css.map",
     "static/js/2.43c7a42e.chunk.js.LICENSE.txt": "/MGBD_Redesign/static/js/2.43c7a42e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.64070373.js",
     "static/js/2.43c7a42e.chunk.js",
-    "static/css/main.ab98dcdf.chunk.css",
-    "static/js/main.d5ada945.chunk.js"
+    "static/css/main.2b2dca35.chunk.css",
+    "static/js/main.40d8dce0.chunk.js"
   ]
 }
