@@ -6,8 +6,6 @@ html {
 }
 
 body {
-  
-   
   padding: 20px;
   margin: 0;
 }
@@ -63,3 +61,16 @@ img {
   background-color: #0099FF;
 }
 
+figure{
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: grey;
+  color: white;
+  font-style: initial;
+  padding: 2px;
+  text-align: center;
+}
