@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MGBD_Redesign/static/css/main.2b2dca35.chunk.css",
-    "main.js": "/MGBD_Redesign/static/js/main.40d8dce0.chunk.js",
-    "main.js.map": "/MGBD_Redesign/static/js/main.40d8dce0.chunk.js.map",
+    "main.js": "/MGBD_Redesign/static/js/main.d5ada945.chunk.js",
+    "main.js.map": "/MGBD_Redesign/static/js/main.d5ada945.chunk.js.map",
     "runtime-main.js": "/MGBD_Redesign/static/js/runtime-main.64070373.js",
     "runtime-main.js.map": "/MGBD_Redesign/static/js/runtime-main.64070373.js.map",
     "static/js/2.43c7a42e.chunk.js": "/MGBD_Redesign/static/js/2.43c7a42e.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.64070373.js",
     "static/js/2.43c7a42e.chunk.js",
     "static/css/main.2b2dca35.chunk.css",
-    "static/js/main.40d8dce0.chunk.js"
+    "static/js/main.d5ada945.chunk.js"
   ]
 }
